@@ -1,0 +1,229 @@
+﻿Field Label;EUEMIR-NRMC;EUEMIR-TERM;EUEMIR-EROR;EUEMIR-VALU;EUEMIR-MARU;EUEMIR-CORR;JFSA-NRMC;JFSA-TERM;JFSA-EROR;JFSA-VALU;JFSA-MARU;JFSA-CORR;UKEMIR-NRMC;UKEMIR-TERM;UKEMIR-EROR;UKEMIR-VALU;UKEMIR-MARU;UKEMIR-CORR;DEFAULT-NRMC;DEFAULT-TERM;DEFAULT-EROR;DEFAULT-VALU;DEFAULT-MARU
+Action type;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Asset class;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Base product;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Broker ID;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Call amount;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Call currency;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+CDS index attachment point;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+CDS index detachment point;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Central counterparty;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing account origin;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Clearing member;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing obligation;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing receipt timestamp;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Clearing status;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Clearing status without intend;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing threshold of counterparty 1;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing threshold of counterparty 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Clearing timestamp;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Collateral portfolio code;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes
+Collateral timestamp;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Collateralisation category;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Confirmation means;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Confirmation timestamp;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Contract type;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Corporate sector of the counterparty 1;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Corporate sector of the counterparty 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Counterparty 1 (Reporting counterparty);Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Counterparty 2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Country of the counterparty 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Currency of excess collateral collected;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Currency of initial margin collected;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+"Currency of the excess collateral posted ";No;No;No;No;Yes;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Currency of the initial margin posted;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Currency of the price/time interval quantity;Yes;No;No;No;No;Yes;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Currency of the variation margins posted;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Currency of variation margin collected;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Custom basket code;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Days of the week;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery capacity;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery end date;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery interval end time;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery interval start time;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery point or zone;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery start date;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delivery type;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Delta;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+Derivative based on crypto-assets;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Direction;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Direction of leg 1;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Direction of leg 2;Yes;No;No;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Directly linked to commercial activity or treasury financing;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Document creation timestamp;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Duration;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Early termination date;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No
+Effective date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Effective date of the notional amount of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Effective date of the notional amount of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Effective date of the notional quantity of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Effective date of the notional quantity of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Effective date of the strike price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Embedded option type;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+End date of the notional amount of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+End date of the notional amount of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+End date of the notional quantity of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+End date of the notional quantity of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+End date of the strike price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Entity responsible for reporting;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Event date;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Event timestamp;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Event Identifier;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Event type;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Excess collateral collected by the counterparty 1;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes
+Excess collateral posted by the counterparty 1;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes
+Exchange rate 1;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No
+Exchange rate basis currency 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Exchange rate basis currency 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Exchange rate of other leg;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Execution agent;Yes;Yes;Yes;No;No;Yes;No;No;No;No;No;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;No;No
+Execution timestamp;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Expiration date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Final contractual settlement date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+First exercise date;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Fixed rate day count convention leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate of leg 1 or coupon;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Fixed rate of leg 1 or coupon Pctg;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate of leg 2;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Fixed rate of leg 2 Pctg;Yes;No;No;No;No;Yes;"No ";No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate or coupon day count convention leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate or coupon payment frequency period leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate or coupon payment frequency period multiplier leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate payment frequency period leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixed rate payment frequency period multiplier leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Fixing date of Leg 1;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Fixing date of Leg 2;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Floating rate day count convention of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate day count convention of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate payment frequency period multiplier of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate payment frequency period multiplier of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate payment frequency period of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate payment frequency period of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reference period of leg 1 multiplier;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reference period of leg 1 time period;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reference period of leg 2 multiplier;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reference period of leg 2 time period;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reset frequency multiplier of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reset frequency multiplier of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reset frequency period of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Floating rate reset frequency period of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Forward exchange rate;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Further sub-product;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Identifier of the baskets constituents;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Identifier of the floating rate of leg 1;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Identifier of the floating rate of leg 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Index factor;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Indicator of the floating rate of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Indicator of the floating rate of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Indicator of the underlying index;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Initial margin collateral portfolio code;No;No;No;No;No;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Initial margin collected by the counterparty 1 (post-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Initial margin collected by the counterparty 1 (pre-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Initial margin posted by the counterparty 1 (post-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Initial margin posted by the counterparty 1 (pre-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes
+Interconnection Point;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Intragroup;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+ISIN;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Level;Yes;Yes;Yes;Yes;No;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No
+Load type;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Master Agreement type;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Master Agreement version;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Maturity date of the underlying;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Message ID;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Name of the floating rate of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Name of the floating rate of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Name of the underlying index;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Nature of the counterparty 1;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Nature of the counterparty 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+New SDR identifier;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Notional amount in effect on associated effective date of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional amount in effect on associated effective date of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional amount of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional amount of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional currency 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional currency 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional quantity in effect on associated effective date of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Notional quantity in effect on associated effective date of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Option premium amount;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Option premium currency;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Option premium payment date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Option style;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Option type;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Original swap SDR identifier;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Original swap UTI;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Other master agreement type;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Other payment amount;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Other payment currency;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Other payment date;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Other payment payer;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Other payment receiver;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Other payment type;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Package identifier;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Package transaction price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Package transaction price currency;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Package transaction spread;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Package transaction spread currency;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Price currency;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Price in effect between the unadjusted effective and end date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Price unit of measure;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Price unit of measure SHAS;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Price/time interval quantity;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Prior UTI;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Product classification;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+PTRR;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;Yes;No;No;No
+PTRR ID;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+PTRR service provider;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Put amount;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Put currency;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Quantity Unit;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Quantity unit of measure - Leg 1;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Quantity unit of measure - Leg 2;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Reference entity;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Report submitting entity ID;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Report tracking number;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Reporting obligation of the counterparty 2;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Reporting timestamp;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Seniority;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Series;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Settlement currency 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Settlement currency 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Source of identifier of baskets constituents;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Spread currency of leg 1;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Spread currency of leg 2;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Spread of leg 1;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Spread of leg 1 Pctg;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Spread of leg 2;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Spread of leg 2 Pctg;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price currency for fx;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price currency/currency pair;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price for non ird products;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price fx decimal;No;No;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Strike price fx monetary;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price in effect on associated effective date;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price in effect on associated effective date Pctg;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Strike price Pctg;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Sub-product;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Subsequent position UTI;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Technical Record Identification;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Total notional quantity of leg 1;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Total notional quantity of leg 2;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Tranche;Yes;No;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Type of PTRR technique;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes;Yes;No;No;No;Yes;Yes;Yes;No;No;No
+Unadjusted effective date of the price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Unadjusted end date of the price;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Underlying identification;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Unique product identifier (UPI);Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+UTI;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Valuation amount;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+Valuation currency;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+Valuation method;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+Valuation timestamp;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;Yes;No
+Variation margin collateral portfolio code;No;No;No;No;No;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No;No
+Variation margin collected by the counterparty 1 (post-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;Yes
+Variation margin collected by the counterparty 1 (pre-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;Yes
+Variation margin posted by the counterparty 1 (post-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;Yes
+Variation margin posted by the counterparty 1 (pre-haircut);No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;Yes
+Venue of execution;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
+Version;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No
